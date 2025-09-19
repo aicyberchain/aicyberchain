@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tran Huy Hoang</h1>
 <h3 align="center">A curious AI developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **Local assistant AI**
+- 🔭 I’m currently working on **a Local assistant AI**
 
-- 🌱 I’m currently learning **How to create a simple local chatbot with python**
+- 🌱 I’m currently learning **How to create a simple local chatbot with Python**
 
-- 📫 How to reach me **tranhoang20x@gmail.com**
+- 📫 How to reach me **:tranhoang20x@gmail.com**
 
-- ⚡ Fun fact **I want to become a overseas student**
+- ⚡ Fun fact **:I want to become an overseas student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
