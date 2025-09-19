@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tran Huy Hoang</h1>
 <h3 align="center">A curious AI developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [a local assistant AI](https://2a3b0a7e292684296c.gradio.live/)
+- 🔭 I’m currently working on [a local assistant AI](https://huggingface.co/spaces/newbeginners/helloword
+)
 
 - 🌱 I’m currently learning **How to create a simple local chatbot with Python**
 
